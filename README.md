@@ -5,7 +5,7 @@
 
 <h3>❓ ¿Que es esto?</h3>
 
-- My Symphony: Es una aplicacion que te permite escuchar música relajante (Lo-Fi) vía streaming.
+- My Symphony: Es una aplicación que te permite escuchar música relajante (Lo-Fi) vía streaming.
 
 <h3>☃️ Desarollador</h3>
 
