@@ -1,5 +1,5 @@
 <p  align="center">
-<img src='https://arviixzuh.ml/src/assets/img/music.png' width="200px"  height='200px'>
+<img src='https://media.discordapp.net/attachments/909121957562314803/1058850893539332176/music.png?width=473&height=473' width="200px"  height='200px'>
 </p>
 <h1 align="center"> My Symphony </h1>
 
